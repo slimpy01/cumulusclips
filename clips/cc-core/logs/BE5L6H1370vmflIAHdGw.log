@@ -1,0 +1,2317 @@
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+Stream mapping:
+  Stream #0:1 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] context_init() failed.
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x55555729b7e0] Cannot allocate memory.
+[h264 @ 0x55555729b7e0] Could not allocate memory
+[h264 @ 0x55555729b7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+Too many packets buffered for output stream 0:1.
+[aac @ 0x555556fecd80] Qavg: 2844.107
+[aac @ 0x555556fecd80] 2 frames left in the queue on closing
+Conversion failed!
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+Stream mapping:
+  Stream #0:1 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] context_init() failed.
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559497e0] Cannot allocate memory.
+[h264 @ 0x5555559497e0] Could not allocate memory
+[h264 @ 0x5555559497e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+Too many packets buffered for output stream 0:1.
+[aac @ 0x55555569ad80] Qavg: 2844.107
+[aac @ 0x55555569ad80] 2 frames left in the queue on closing
+Conversion failed!
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+Stream mapping:
+  Stream #0:1 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] context_init() failed.
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555559dd7e0] Cannot allocate memory.
+[h264 @ 0x5555559dd7e0] Could not allocate memory
+[h264 @ 0x5555559dd7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+Too many packets buffered for output stream 0:1.
+[aac @ 0x55555572ed80] Qavg: 2844.107
+[aac @ 0x55555572ed80] 2 frames left in the queue on closing
+Conversion failed!
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+Stream mapping:
+  Stream #0:1 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] context_init() failed.
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555d307e0] Cannot allocate memory.
+[h264 @ 0x555555d307e0] Could not allocate memory
+[h264 @ 0x555555d307e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+Too many packets buffered for output stream 0:1.
+[aac @ 0x555555a81d80] Qavg: 2844.107
+[aac @ 0x555555a81d80] 2 frames left in the queue on closing
+Conversion failed!
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+Stream mapping:
+  Stream #0:1 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] context_init() failed.
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555556ef87e0] Cannot allocate memory.
+[h264 @ 0x555556ef87e0] Could not allocate memory
+[h264 @ 0x555556ef87e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+Too many packets buffered for output stream 0:1.
+[aac @ 0x555556c49d80] Qavg: 2844.107
+[aac @ 0x555556c49d80] 2 frames left in the queue on closing
+Conversion failed!
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+Stream mapping:
+  Stream #0:1 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0x55555741bf60] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 0x55555741bf60] profile High, level 3.0
+[libx264 @ 0x55555741bf60] 264 - core 152 r19 ba24899 - H.264/MPEG-4 AVC codec - Copyleft 2003-2017 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=1 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=abr mbtree=1 bitrate=800 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    encoder         : Lavf57.71.100
+    Stream #0:0(und): Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 640x360, q=-1--1, 800 kb/s, 30 fps, 15360 tbn, 30 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.89.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/800000 buffer size: 0 vbv_delay: -1
+    Stream #0:1(und): Audio: aac (LC) ([64][0][0][0] / 0x0040), 44100 Hz, mono, fltp, 96 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.89.100 aac
+frame=   45 fps=0.0 q=38.0 size=      12kB time=00:00:02.97 bitrate=  32.5kbits/s dup=1 drop=0 speed=5.94x    frame=   61 fps= 59 q=26.0 size=      57kB time=00:00:03.48 bitrate= 133.5kbits/s dup=1 drop=0 speed=3.39x    frame=   73 fps= 48 q=27.0 size=     109kB time=00:00:03.87 bitrate= 229.6kbits/s dup=1 drop=0 speed=2.53x    frame=   88 fps= 43 q=26.0 size=     158kB time=00:00:04.38 bitrate= 295.4kbits/s dup=1 drop=0 speed=2.16x    frame=  101 fps= 40 q=26.0 size=     208kB time=00:00:04.52 bitrate= 376.9kbits/s dup=1 drop=0 speed=1.78x    frame=  113 fps= 37 q=26.0 size=     248kB time=00:00:04.52 bitrate= 449.2kbits/s dup=1 drop=0 speed=1.48x    frame=  126 fps= 35 q=26.0 size=     292kB time=00:00:04.52 bitrate= 528.4kbits/s dup=1 drop=0 speed=1.26x    frame=  137 fps= 26 q=25.0 Lsize=     477kB time=00:00:04.57 bitrate= 854.3kbits/s dup=1 drop=0 speed=0.856x    
+video:415kB audio:56kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.299434%
+[libx264 @ 0x55555741bf60] frame I:1     Avg QP:27.74  size:  9455
+[libx264 @ 0x55555741bf60] frame P:35    Avg QP:20.74  size:  7085
+[libx264 @ 0x55555741bf60] frame B:101   Avg QP:22.22  size:  1649
+[libx264 @ 0x55555741bf60] consecutive B-frames:  0.7%  2.9%  0.0% 96.4%
+[libx264 @ 0x55555741bf60] mb I  I16..4: 28.4% 50.1% 21.5%
+[libx264 @ 0x55555741bf60] mb P  I16..4:  2.2%  8.5%  0.6%  P16..4: 48.2% 21.6% 13.2%  0.0%  0.0%    skip: 5.7%
+[libx264 @ 0x55555741bf60] mb B  I16..4:  0.1%  0.5%  0.0%  B16..8: 41.4%  4.9%  0.7%  direct: 4.6%  skip:47.8%  L0:42.8% L1:52.4% BI: 4.8%
+[libx264 @ 0x55555741bf60] final ratefactor: 19.65
+[libx264 @ 0x55555741bf60] 8x8 transform intra:71.5% inter:74.6%
+[libx264 @ 0x55555741bf60] coded y,uvDC,uvAC intra: 53.9% 63.3% 12.9% inter: 21.9% 28.4% 0.4%
+[libx264 @ 0x55555741bf60] i16 v,h,dc,p: 28% 18% 18% 36%
+[libx264 @ 0x55555741bf60] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 20% 11% 45%  4%  5%  5%  4%  4%  3%
+[libx264 @ 0x55555741bf60] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 29% 15% 23%  6%  6%  6%  4%  7%  3%
+[libx264 @ 0x55555741bf60] i8c dc,h,v,p: 66% 15% 17%  1%
+[libx264 @ 0x55555741bf60] Weighted P-Frames: Y:14.3% UV:14.3%
+[libx264 @ 0x55555741bf60] ref P L0: 54.8% 13.3% 20.5% 11.3%  0.2%
+[libx264 @ 0x55555741bf60] ref B L0: 83.5% 12.4%  4.1%
+[libx264 @ 0x55555741bf60] ref B L1: 93.9%  6.1%
+[libx264 @ 0x55555741bf60] kb/s:742.83
+[aac @ 0x55555741dd40] Qavg: 1977.076
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+Stream mapping:
+  Stream #0:1 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0x555556cbdf60] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 0x555556cbdf60] profile High, level 3.0
+[libx264 @ 0x555556cbdf60] 264 - core 152 r19 ba24899 - H.264/MPEG-4 AVC codec - Copyleft 2003-2017 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=1 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=abr mbtree=1 bitrate=800 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    encoder         : Lavf57.71.100
+    Stream #0:0(und): Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 640x360, q=-1--1, 800 kb/s, 30 fps, 15360 tbn, 30 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.89.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/800000 buffer size: 0 vbv_delay: -1
+    Stream #0:1(und): Audio: aac (LC) ([64][0][0][0] / 0x0040), 44100 Hz, mono, fltp, 96 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.89.100 aac
+frame=   47 fps=0.0 q=34.0 size=      15kB time=00:00:03.01 bitrate=  42.1kbits/s dup=1 drop=0 speed= 5.7x    frame=   62 fps= 59 q=26.0 size=      59kB time=00:00:03.52 bitrate= 137.6kbits/s dup=1 drop=0 speed=3.36x    frame=   77 fps= 49 q=26.0 size=     124kB time=00:00:04.01 bitrate= 252.7kbits/s dup=1 drop=0 speed=2.55x    frame=   95 fps= 45 q=26.0 size=     184kB time=00:00:04.52 bitrate= 332.4kbits/s dup=1 drop=0 speed=2.15x    frame=  114 fps= 44 q=26.0 size=     251kB time=00:00:04.52 bitrate= 453.8kbits/s dup=1 drop=0 speed=1.73x    frame=  134 fps= 43 q=26.0 size=     324kB time=00:00:04.52 bitrate= 586.7kbits/s dup=1 drop=0 speed=1.44x    frame=  137 fps= 34 q=25.0 Lsize=     477kB time=00:00:04.57 bitrate= 854.3kbits/s dup=1 drop=0 speed=1.13x    
+video:415kB audio:56kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.299434%
+[libx264 @ 0x555556cbdf60] frame I:1     Avg QP:27.74  size:  9455
+[libx264 @ 0x555556cbdf60] frame P:35    Avg QP:20.74  size:  7085
+[libx264 @ 0x555556cbdf60] frame B:101   Avg QP:22.22  size:  1649
+[libx264 @ 0x555556cbdf60] consecutive B-frames:  0.7%  2.9%  0.0% 96.4%
+[libx264 @ 0x555556cbdf60] mb I  I16..4: 28.4% 50.1% 21.5%
+[libx264 @ 0x555556cbdf60] mb P  I16..4:  2.2%  8.5%  0.6%  P16..4: 48.2% 21.6% 13.2%  0.0%  0.0%    skip: 5.7%
+[libx264 @ 0x555556cbdf60] mb B  I16..4:  0.1%  0.5%  0.0%  B16..8: 41.4%  4.9%  0.7%  direct: 4.6%  skip:47.8%  L0:42.8% L1:52.4% BI: 4.8%
+[libx264 @ 0x555556cbdf60] final ratefactor: 19.65
+[libx264 @ 0x555556cbdf60] 8x8 transform intra:71.5% inter:74.6%
+[libx264 @ 0x555556cbdf60] coded y,uvDC,uvAC intra: 53.9% 63.3% 12.9% inter: 21.9% 28.4% 0.4%
+[libx264 @ 0x555556cbdf60] i16 v,h,dc,p: 28% 18% 18% 36%
+[libx264 @ 0x555556cbdf60] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 20% 11% 45%  4%  5%  5%  4%  4%  3%
+[libx264 @ 0x555556cbdf60] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 29% 15% 23%  6%  6%  6%  4%  7%  3%
+[libx264 @ 0x555556cbdf60] i8c dc,h,v,p: 66% 15% 17%  1%
+[libx264 @ 0x555556cbdf60] Weighted P-Frames: Y:14.3% UV:14.3%
+[libx264 @ 0x555556cbdf60] ref P L0: 54.8% 13.3% 20.5% 11.3%  0.2%
+[libx264 @ 0x555556cbdf60] ref B L0: 83.5% 12.4%  4.1%
+[libx264 @ 0x555556cbdf60] ref B L1: 93.9%  6.1%
+[libx264 @ 0x555556cbdf60] kb/s:742.83
+[aac @ 0x555556cbfd40] Qavg: 1977.076
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+Stream mapping:
+  Stream #0:1 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] context_init() failed.
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x5555568247e0] Cannot allocate memory.
+[h264 @ 0x5555568247e0] Could not allocate memory
+[h264 @ 0x5555568247e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+Too many packets buffered for output stream 0:1.
+[aac @ 0x555556575d80] Qavg: 2844.107
+[aac @ 0x555556575d80] 2 frames left in the queue on closing
+Conversion failed!
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+Stream mapping:
+  Stream #0:1 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0x555555efef60] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 0x555555efef60] profile High, level 3.0
+[libx264 @ 0x555555efef60] 264 - core 152 r19 ba24899 - H.264/MPEG-4 AVC codec - Copyleft 2003-2017 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=1 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=abr mbtree=1 bitrate=800 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    encoder         : Lavf57.71.100
+    Stream #0:0(und): Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 640x360, q=-1--1, 800 kb/s, 30 fps, 15360 tbn, 30 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.89.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/800000 buffer size: 0 vbv_delay: -1
+    Stream #0:1(und): Audio: aac (LC) ([64][0][0][0] / 0x0040), 44100 Hz, mono, fltp, 96 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.89.100 aac
+frame=   47 fps=0.0 q=34.0 size=      15kB time=00:00:03.01 bitrate=  42.1kbits/s dup=1 drop=0 speed=5.95x    frame=   64 fps= 62 q=26.0 size=      63kB time=00:00:03.59 bitrate= 144.3kbits/s dup=1 drop=0 speed=3.51x    frame=   81 fps= 52 q=26.0 size=     138kB time=00:00:04.15 bitrate= 271.3kbits/s dup=1 drop=0 speed=2.68x    frame=  101 fps= 49 q=26.0 size=     208kB time=00:00:04.52 bitrate= 376.9kbits/s dup=1 drop=0 speed=2.21x    frame=  121 fps= 47 q=26.0 size=     276kB time=00:00:04.52 bitrate= 499.2kbits/s dup=1 drop=0 speed=1.77x    frame=  137 fps= 36 q=25.0 Lsize=     477kB time=00:00:04.57 bitrate= 854.3kbits/s dup=1 drop=0 speed=1.21x    
+video:415kB audio:56kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.299434%
+[libx264 @ 0x555555efef60] frame I:1     Avg QP:27.74  size:  9455
+[libx264 @ 0x555555efef60] frame P:35    Avg QP:20.74  size:  7085
+[libx264 @ 0x555555efef60] frame B:101   Avg QP:22.22  size:  1649
+[libx264 @ 0x555555efef60] consecutive B-frames:  0.7%  2.9%  0.0% 96.4%
+[libx264 @ 0x555555efef60] mb I  I16..4: 28.4% 50.1% 21.5%
+[libx264 @ 0x555555efef60] mb P  I16..4:  2.2%  8.5%  0.6%  P16..4: 48.2% 21.6% 13.2%  0.0%  0.0%    skip: 5.7%
+[libx264 @ 0x555555efef60] mb B  I16..4:  0.1%  0.5%  0.0%  B16..8: 41.4%  4.9%  0.7%  direct: 4.6%  skip:47.8%  L0:42.8% L1:52.4% BI: 4.8%
+[libx264 @ 0x555555efef60] final ratefactor: 19.65
+[libx264 @ 0x555555efef60] 8x8 transform intra:71.5% inter:74.6%
+[libx264 @ 0x555555efef60] coded y,uvDC,uvAC intra: 53.9% 63.3% 12.9% inter: 21.9% 28.4% 0.4%
+[libx264 @ 0x555555efef60] i16 v,h,dc,p: 28% 18% 18% 36%
+[libx264 @ 0x555555efef60] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 20% 11% 45%  4%  5%  5%  4%  4%  3%
+[libx264 @ 0x555555efef60] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 29% 15% 23%  6%  6%  6%  4%  7%  3%
+[libx264 @ 0x555555efef60] i8c dc,h,v,p: 66% 15% 17%  1%
+[libx264 @ 0x555555efef60] Weighted P-Frames: Y:14.3% UV:14.3%
+[libx264 @ 0x555555efef60] ref P L0: 54.8% 13.3% 20.5% 11.3%  0.2%
+[libx264 @ 0x555555efef60] ref B L0: 83.5% 12.4%  4.1%
+[libx264 @ 0x555555efef60] ref B L1: 93.9%  6.1%
+[libx264 @ 0x555555efef60] kb/s:742.83
+[aac @ 0x555555f00d40] Qavg: 1977.076
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+Stream mapping:
+  Stream #0:1 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] context_init() failed.
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+[h264 @ 0x555555e3c7e0] Cannot allocate memory.
+[h264 @ 0x555555e3c7e0] Could not allocate memory
+[h264 @ 0x555555e3c7e0] h264_slice_header_init() failedError while decoding stream #0:1: Cannot allocate memory
+Too many packets buffered for output stream 0:1.
+[aac @ 0x555555b8dd80] Qavg: 2844.107
+[aac @ 0x555555b8dd80] 2 frames left in the queue on closing
+Conversion failed!
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+Stream mapping:
+  Stream #0:1 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:0 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0x555556342f60] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 0x555556342f60] profile High, level 3.0
+[libx264 @ 0x555556342f60] 264 - core 152 r19 ba24899 - H.264/MPEG-4 AVC codec - Copyleft 2003-2017 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=1 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=abr mbtree=1 bitrate=800 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    encoder         : Lavf57.71.100
+    Stream #0:0(und): Video: h264 (libx264) ([33][0][0][0] / 0x0021), yuv420p, 640x360, q=-1--1, 800 kb/s, 30 fps, 15360 tbn, 30 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.89.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/800000 buffer size: 0 vbv_delay: -1
+    Stream #0:1(und): Audio: aac (LC) ([64][0][0][0] / 0x0040), 44100 Hz, mono, fltp, 96 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.89.100 aac
+frame=   50 fps=0.0 q=32.0 size=      22kB time=00:00:03.11 bitrate=  58.7kbits/s dup=1 drop=0 speed=6.13x    frame=   66 fps= 64 q=26.0 size=      76kB time=00:00:03.64 bitrate= 170.7kbits/s dup=1 drop=0 speed=3.53x    frame=   82 fps= 53 q=26.0 size=     140kB time=00:00:04.17 bitrate= 274.2kbits/s dup=1 drop=0 speed= 2.7x    frame=   99 fps= 48 q=26.0 size=     196kB time=00:00:04.52 bitrate= 354.7kbits/s dup=1 drop=0 speed=2.19x    frame=  115 fps= 45 q=26.0 size=     252kB time=00:00:04.52 bitrate= 456.1kbits/s dup=1 drop=0 speed=1.75x    frame=  132 fps= 43 q=25.0 size=     314kB time=00:00:04.52 bitrate= 568.0kbits/s dup=1 drop=0 speed=1.47x    frame=  137 fps= 31 q=25.0 Lsize=     477kB time=00:00:04.57 bitrate= 854.3kbits/s dup=1 drop=0 speed=1.03x    
+video:415kB audio:56kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.299434%
+[libx264 @ 0x555556342f60] frame I:1     Avg QP:27.74  size:  9455
+[libx264 @ 0x555556342f60] frame P:35    Avg QP:20.74  size:  7085
+[libx264 @ 0x555556342f60] frame B:101   Avg QP:22.22  size:  1649
+[libx264 @ 0x555556342f60] consecutive B-frames:  0.7%  2.9%  0.0% 96.4%
+[libx264 @ 0x555556342f60] mb I  I16..4: 28.4% 50.1% 21.5%
+[libx264 @ 0x555556342f60] mb P  I16..4:  2.2%  8.5%  0.6%  P16..4: 48.2% 21.6% 13.2%  0.0%  0.0%    skip: 5.7%
+[libx264 @ 0x555556342f60] mb B  I16..4:  0.1%  0.5%  0.0%  B16..8: 41.4%  4.9%  0.7%  direct: 4.6%  skip:47.8%  L0:42.8% L1:52.4% BI: 4.8%
+[libx264 @ 0x555556342f60] final ratefactor: 19.65
+[libx264 @ 0x555556342f60] 8x8 transform intra:71.5% inter:74.6%
+[libx264 @ 0x555556342f60] coded y,uvDC,uvAC intra: 53.9% 63.3% 12.9% inter: 21.9% 28.4% 0.4%
+[libx264 @ 0x555556342f60] i16 v,h,dc,p: 28% 18% 18% 36%
+[libx264 @ 0x555556342f60] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 20% 11% 45%  4%  5%  5%  4%  4%  3%
+[libx264 @ 0x555556342f60] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 29% 15% 23%  6%  6%  6%  4%  7%  3%
+[libx264 @ 0x555556342f60] i8c dc,h,v,p: 66% 15% 17%  1%
+[libx264 @ 0x555556342f60] Weighted P-Frames: Y:14.3% UV:14.3%
+[libx264 @ 0x555556342f60] ref P L0: 54.8% 13.3% 20.5% 11.3%  0.2%
+[libx264 @ 0x555556342f60] ref B L0: 83.5% 12.4%  4.1%
+[libx264 @ 0x555556342f60] ref B L1: 93.9%  6.1%
+[libx264 @ 0x555556342f60] kb/s:742.83
+[aac @ 0x555556344d40] Qavg: 1977.076
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
+ffmpeg version 3.3.4-static http://johnvansickle.com/ffmpeg/  Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 6.4.0 (Debian 6.4.0-4) 20170820
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-debug --disable-ffplay --disable-indev=sndio --disable-outdev=sndio --cc=gcc-6 --enable-fontconfig --enable-frei0r --enable-gnutls --enable-gray --enable-libfribidi --enable-libass --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-librubberband --enable-librtmp --enable-libsoxr --enable-libspeex --enable-libvorbis --enable-libopus --enable-libtheora --enable-libvidstab --enable-libvo-amrwbenc --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libzimg
+  libavutil      55. 58.100 / 55. 58.100
+  libavcodec     57. 89.100 / 57. 89.100
+  libavformat    57. 71.100 / 57. 71.100
+  libavdevice    57.  6.100 / 57.  6.100
+  libavfilter     6. 82.100 /  6. 82.100
+  libswscale      4.  6.100 /  4.  6.100
+  libswresample   2.  7.100 /  2.  7.100
+  libpostproc    54.  5.100 / 54.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/temp/BE5L6H1370vmflIAHdGw.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-06-30T19:45:06.000000Z
+    com.apple.quicktime.location.ISO6709: +36.2180-086.6310+116.147/
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone X
+    com.apple.quicktime.software: 13.5.1
+    com.apple.quicktime.creationdate: 2020-06-30T09:58:50-0500
+  Duration: 00:00:04.57, start: 0.000000, bitrate: 2763 kb/s
+    Stream #0:0(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 94 kb/s (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1280x720, 2659 kb/s, 30.01 fps, 30 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-06-30T19:45:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+File '/home4/slimpy01/immigrantadventure.com/clips/cc-content/uploads/h264/BE5L6H1370vmflIAHdGw_temp.mp4' already exists. Overwrite ? [y/N] Not overwriting - exiting
